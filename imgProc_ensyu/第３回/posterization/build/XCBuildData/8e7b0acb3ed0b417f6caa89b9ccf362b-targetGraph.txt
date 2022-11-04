@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+posterization in posterization, no dependencies
+ALL_BUILD in posterization, depends on:
+posterization in posterization (explicit)

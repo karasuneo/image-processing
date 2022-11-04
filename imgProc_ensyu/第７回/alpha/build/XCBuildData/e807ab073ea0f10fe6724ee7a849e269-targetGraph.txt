@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in alpha, no dependencies
+alpha in alpha, depends on:
+ZERO_CHECK in alpha (explicit)
+ALL_BUILD in alpha, depends on:
+alpha in alpha (explicit)
+ZERO_CHECK in alpha (explicit)

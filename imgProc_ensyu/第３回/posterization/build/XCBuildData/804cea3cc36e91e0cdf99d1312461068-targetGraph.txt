@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in posterization, no dependencies
+posterization in posterization, depends on:
+ZERO_CHECK in posterization (explicit)
+ALL_BUILD in posterization, depends on:
+posterization in posterization (explicit)
+ZERO_CHECK in posterization (explicit)

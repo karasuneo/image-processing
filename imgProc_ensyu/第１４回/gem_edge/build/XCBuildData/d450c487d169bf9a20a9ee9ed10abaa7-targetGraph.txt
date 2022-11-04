@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in gem_edge, no dependencies
+gem_edge in gem_edge, depends on:
+ZERO_CHECK in gem_edge (explicit)
+ALL_BUILD in gem_edge, depends on:
+gem_edge in gem_edge (explicit)
+ZERO_CHECK in gem_edge (explicit)

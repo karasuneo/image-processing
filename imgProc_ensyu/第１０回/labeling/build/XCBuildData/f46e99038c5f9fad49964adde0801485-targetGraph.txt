@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in labeling, no dependencies
+labeling in labeling, depends on:
+ZERO_CHECK in labeling (explicit)
+ALL_BUILD in labeling, depends on:
+labeling in labeling (explicit)
+ZERO_CHECK in labeling (explicit)

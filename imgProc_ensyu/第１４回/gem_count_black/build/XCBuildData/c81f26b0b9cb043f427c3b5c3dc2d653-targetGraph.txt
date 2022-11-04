@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in gem_count_black, no dependencies
+gem_count_black in gem_count_black, depends on:
+ZERO_CHECK in gem_count_black (explicit)
+ALL_BUILD in gem_count_black, depends on:
+gem_count_black in gem_count_black (explicit)
+ZERO_CHECK in gem_count_black (explicit)

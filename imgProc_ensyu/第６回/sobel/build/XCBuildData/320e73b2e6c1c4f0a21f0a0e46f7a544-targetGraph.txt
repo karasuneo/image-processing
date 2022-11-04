@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in Sobel, no dependencies
+Sobel in Sobel, depends on:
+ZERO_CHECK in Sobel (explicit)
+ALL_BUILD in Sobel, depends on:
+Sobel in Sobel (explicit)
+ZERO_CHECK in Sobel (explicit)

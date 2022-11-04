@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+ZERO_CHECK in changeColor, no dependencies
+changeColor in changeColor, depends on:
+ZERO_CHECK in changeColor (explicit)

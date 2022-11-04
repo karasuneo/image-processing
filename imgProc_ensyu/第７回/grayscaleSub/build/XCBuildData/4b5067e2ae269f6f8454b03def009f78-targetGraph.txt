@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+ZERO_CHECK in grayscaleSub, no dependencies
+grayscaleSub in grayscaleSub, depends on:
+ZERO_CHECK in grayscaleSub (explicit)

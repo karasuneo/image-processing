@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+ZERO_CHECK in gem_hist, no dependencies
+gem_hist in gem_hist, depends on:
+ZERO_CHECK in gem_hist (explicit)

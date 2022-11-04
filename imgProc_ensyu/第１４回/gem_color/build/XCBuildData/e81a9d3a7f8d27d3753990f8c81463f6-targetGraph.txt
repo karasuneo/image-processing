@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in gem_color, no dependencies
+gem_color in gem_color, depends on:
+ZERO_CHECK in gem_color (explicit)
+ALL_BUILD in gem_color, depends on:
+gem_color in gem_color (explicit)
+ZERO_CHECK in gem_color (explicit)

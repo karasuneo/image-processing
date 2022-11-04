@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in contour4student, no dependencies
+contour4student in contour4student, depends on:
+ZERO_CHECK in contour4student (explicit)
+ALL_BUILD in contour4student, depends on:
+contour4student in contour4student (explicit)
+ZERO_CHECK in contour4student (explicit)

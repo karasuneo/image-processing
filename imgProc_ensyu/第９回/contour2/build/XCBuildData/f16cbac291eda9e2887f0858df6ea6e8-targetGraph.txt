@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in contour2, no dependencies
+contour2 in contour2, depends on:
+ZERO_CHECK in contour2 (explicit)
+ALL_BUILD in contour2, depends on:
+contour2 in contour2 (explicit)
+ZERO_CHECK in contour2 (explicit)

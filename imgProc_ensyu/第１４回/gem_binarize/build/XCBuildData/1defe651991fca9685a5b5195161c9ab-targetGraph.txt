@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in gem_binarize, no dependencies
+gem_binarize in gem_binarize, depends on:
+ZERO_CHECK in gem_binarize (explicit)
+ALL_BUILD in gem_binarize, depends on:
+gem_binarize in gem_binarize (explicit)
+ZERO_CHECK in gem_binarize (explicit)

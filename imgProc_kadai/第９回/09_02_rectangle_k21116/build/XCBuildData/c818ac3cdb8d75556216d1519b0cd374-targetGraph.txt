@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in 09_02_rectangle_k21116, no dependencies
+09_02_rectangle_k21116 in 09_02_rectangle_k21116, depends on:
+ZERO_CHECK in 09_02_rectangle_k21116 (explicit)
+ALL_BUILD in 09_02_rectangle_k21116, depends on:
+09_02_rectangle_k21116 in 09_02_rectangle_k21116 (explicit)
+ZERO_CHECK in 09_02_rectangle_k21116 (explicit)

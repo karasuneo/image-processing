@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+ZERO_CHECK in 11_01_hand_k21116, no dependencies
+11_01_hand_k21116 in 11_01_hand_k21116, depends on:
+ZERO_CHECK in 11_01_hand_k21116 (explicit)

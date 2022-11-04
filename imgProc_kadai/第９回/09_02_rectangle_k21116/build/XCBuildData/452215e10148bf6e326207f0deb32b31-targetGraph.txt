@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+ZERO_CHECK in 09_02_rectangle_k21116, no dependencies
